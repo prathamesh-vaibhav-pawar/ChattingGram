@@ -1,0 +1,21 @@
+.Container{
+    margin: 200px;
+    text-align: center;
+}
+button{
+    background-color: #2b2b2b;
+    color: whitesmoke;
+    padding: 5px;
+}
+.Header{
+    background-color: #2b2b2b;
+    color:whitesmoke;
+    width: 100%;
+    position:fixed;
+    top: 0px;
+}
+a{
+    float: right;
+    height:100%;
+    color: rgba(245, 245, 245, 0.926);
+}

@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+.container{
+    border: 1px solid lightgray;
+    padding: 50px;
+    margin-top:150px;
+}
+input{
+    border-style:1px solid lightgrey;
+    width: 30%;
+    letter-spacing: 1px;
+    height: 30px;
+}
+.Header{
+    background-color: #2b2b2b;
+    color:whitesmoke;
+    width: 100%;
+    position:fixed;
+    top: 0px;
+}
+a{
+    float: right;
+    height:100%;
+    color: rgba(245, 245, 245, 0.926);
+}

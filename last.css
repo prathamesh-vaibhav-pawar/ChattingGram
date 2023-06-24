@@ -1,0 +1,23 @@
+.container{
+    border:1px solid lightgray;
+    text-align: center;
+    padding: 40px;
+}
+.btn{
+    background-color: #2b2b2b;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.Header{
+    background-color: #2b2b2b;
+    color:whitesmoke;
+    width: 100%;
+    position:fixed;
+    top: 0px;
+}
+a{
+    float: right;
+    height:100%;
+    color: rgba(245, 245, 245, 0.926);
+}

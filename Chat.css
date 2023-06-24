@@ -1,0 +1,38 @@
+body{
+    background-color: darkslategrey;
+}
+.Message{
+    position: fixed;
+    bottom: 0px;
+    margin-left: 150px;
+    width: 80%; 
+}
+input{
+    width: 20%;
+}
+button{
+    background-color: #2b2b2b;
+    color: white;
+    width: 5%;
+    padding:3px;
+    border-radius: 5px;
+}
+#Content{
+    padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+.Header{
+    background-color: #2b2b2b;
+    color:whitesmoke;
+    width: 100%;
+    position:fixed;
+    top: 0px;
+}
+a{
+    float: right;
+    height:100%;
+    color: rgba(245, 245, 245, 0.926);
+}
+.message_h4
+{
+	padding-left:5px;color:grey;
+}
